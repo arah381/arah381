@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @arah381
 - 👀 I’m interested in WEB Programming
+- 👀 I’m Interested in Colaborating Mobile, WEB and Desktop Aplication
 - 🌱 I’m currently learning UI/UX
 - 💞️ I’m looking to collaborate on SIMKOP
+- 👀 I’m Visual Foxpro developer 
 - 📫 How to reach me : arah381@gmail.com
 
 <!---
